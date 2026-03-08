@@ -6,5 +6,5 @@ build
 bin
 *.exe
 
-ouput
+output
 *.txt
